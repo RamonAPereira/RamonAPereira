@@ -23,7 +23,4 @@
  <div> 
    <a href = "https://www.linkedin.com/in/ramon-pereira-765773140/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:ramonpereiranzd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://twitter.com/ramonnzd"><img src="https://img.shields.io/badge/-Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-   
-
   </div>
